@@ -291,6 +291,19 @@ main p {
     width: 60px;
     padding-bottom: 10px;
 }
+.quote {
+    background-color: var(--color-secundario);
+    text-align: center;
+    color: var(--color-principal);
+    height: AUTO;
+}
+.quote p {
+    padding: 6px 40px;
+    max-width: 500px;
+    font-size: 1.2Rem;
+    margin: auto;
+    
+}
 .end {
     background-image: url(./img/madeira1.png);
     background-position: center;
